@@ -21,9 +21,10 @@ First, [learn Markdown](https://www.markdowntutorial.com).
 To add a page, add a Markdown file to the root of the repo, and follow this template:
 ```markdown
 ---
-layout: docpage
+layout: page
 title: "[page title]"
-author: Your Name
+author: 
+  - Your Name
 ---
 # Page Title
 [content here]
