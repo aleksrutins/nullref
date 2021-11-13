@@ -1,5 +1,5 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" fill="white"/>
+<rect width="256" height="256" fill="none"/>
 <g filter="url(#filter0_d_1_2)">
 <rect x="66" y="27" width="124" height="202" rx="15" fill="#6F2800"/>
 <rect x="66.5" y="27.5" width="123" height="201" rx="14.5" stroke="black"/>
