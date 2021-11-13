@@ -1,0 +1,5 @@
+remote_theme: aleksrutins/inkwell
+title: The Null Reference
+baseurl: /nullref
+icon: /assets/Logo.svg
+nav_style: left
