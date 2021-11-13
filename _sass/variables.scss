@@ -1,0 +1,10 @@
+$primary: #ffbb2a;
+$primary-alt: #f79400;
+$primary-fg: #000000;
+$gradient: linear-gradient(91.71deg, $primary-alt 0%, $primary 100%);
+$responsive-breakpoint: 768px;
+$sidebar-bg: $primary-alt;
+$sidebar-fg: $primary-fg;
+$sidebar-item-spacing: 4px;
+$sidebar-item-active-underline-thickness: 2px;
+$sidebar-item-active-underline: $sidebar-item-active-underline-thickness solid $sidebar-fg;
