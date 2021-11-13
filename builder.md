@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: docpage
+title: Automated Builder Script
+author: Aleks Rutins
 ---
 # Automated Builder Script
 This script (for Linux and macOS) builds, runs, and manages your FTC project for you. It has menu and CLI interfaces. Put it in a file called `builder.sh` in the root directory of your Android Studio project. A makefile to integrate with other IDEs (e.g. GNOME Builder) may be found further down the page.
