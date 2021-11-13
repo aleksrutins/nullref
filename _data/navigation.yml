@@ -1,3 +1,5 @@
+- name: Home
+  url: /
 - section: Tools
   items:
     - name: Automated Builder Script
