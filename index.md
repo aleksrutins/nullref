@@ -7,6 +7,8 @@ header:
     buttons:
         - title: Contribute
           url: 'https://github.com/aleksrutins/nullref'
+        - title: Discuss
+          url: 'https://github.com/aleksrutins/nullref/discussions'
 title: "Welcome"
 toc: true
 ---
